@@ -2,7 +2,7 @@
   import Versions from './components/Versions.svelte'
 </script>
 
-<div>Powered by <a href="https://electron-vite.org/">electron-vite</a></div>
+<div>Powered by <a href="https://electron-vite.org/" target="_blank">electron-vite</a></div>
 
 <div>
   Build an Electron app with
